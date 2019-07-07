@@ -146,7 +146,7 @@ set VS_VERSION=2017
 ![24](https://github.com/JonahZeng/dng_sdk_readme/blob/master/image/24.png?raw=true)
 
 ## 测试dng
-我们生产的dng_validate.exe在如下位置，我们在同一个目录下放置一个dng文件：
+我们生成的dng_validate.exe在如下位置，我们在同一个目录下放置一个dng文件：
 
 ![25](https://github.com/JonahZeng/dng_sdk_readme/blob/master/image/25.PNG?raw=true)
 
