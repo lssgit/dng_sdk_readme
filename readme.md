@@ -155,3 +155,8 @@ set VS_VERSION=2017
 ![26](https://github.com/JonahZeng/dng_sdk_readme/blob/master/image/26.PNG?raw=true)
 
 如无问题，此时显示dng内部各个ifd entry的tag解析值，enjoy your dng application！
+
+家境贫寒，buy me a cup of coffee
+
+![ali_pay](https://github.com/JonahZeng/dng_sdk_readme/blob/master/image/ali_pay.jpg?raw=true)
+![wechat_pay](https://github.com/JonahZeng/dng_sdk_readme/blob/master/image/wechat_pay.jpg?raw=true)
